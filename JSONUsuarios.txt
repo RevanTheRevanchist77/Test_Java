@@ -1,0 +1,15 @@
+http://localhost:8080/users
+Http Method : POST
+
+{
+    "name":"John Dillinger",
+    "email":"jDillinger@gmail.com",
+    "password":"D4rthR3v4n"
+    "phones":[
+        {
+            "number":"17111867",		
+            "cityCode":"1",
+            "countryCode":"57"
+        }	
+}
+
